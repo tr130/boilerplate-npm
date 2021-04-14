@@ -4,6 +4,7 @@
 	"description": "learning how to use npm on FreeCodeCamp!",
 	"keywords": ["freecodecamp", "learning", "fun"],
 	"license": "GPLv3",
+	"version": "0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
