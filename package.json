@@ -1,6 +1,7 @@
 {
 	"author": "Henry Golding",
 	"name": "fcc-learn-npm-package-json",
+	"description": "learning how to use npm on FreeCodeCamp!",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
